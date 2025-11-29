@@ -6,6 +6,9 @@ This project is a **binary classification** model that predicts whether a passen
 
 The project also includes a **Streamlit web app** to interactively test predictions.
 
+## 🚀 Live App
+[Click here to open the app](https://titanic-survival-prediction-using-logistic-regression-eedmyqgx.streamlit.app/)
+
 ---
 
 ## 📋 Dataset
